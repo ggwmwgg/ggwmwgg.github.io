@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem-solving and games🎮.\
 &nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently learning new technologies and sharpening skills.\
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2021 (Backend).\
-&nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Uzbekistan with me, myself:pensive:, and I:dog2:.
+&nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Uzbekistan with me, myself😔, and I🐕.
 
 
 ### 🔗 &nbsp;Where to find me
