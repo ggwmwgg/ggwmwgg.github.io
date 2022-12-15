@@ -1,8 +1,8 @@
 <img src="images/svg/header_en.svg">
 
 <table align="right">
- <tr><td><a href="README.md"><img align="right" src="images/us_s.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_ru.md"><img align="right" src="images/ru.png" height="13"> Русский</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us_s.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_ru.md"><img src="images/ru.png" height="13"> Русский</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
