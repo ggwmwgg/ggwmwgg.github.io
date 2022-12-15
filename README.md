@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg">
 
 
-### :space_invader: &nbsp;About Me
+### 👾 &nbsp;About Me
 &nbsp;&nbsp;&nbsp;🧍 &nbsp;I'm 26 years old Backend & ML/AI Enthusiast from Uzbekistan.\
 &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working at [Codify](https://codifylab.uz/) as mentor. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Love for innovation and animals🐕.\
