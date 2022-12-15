@@ -1,21 +1,21 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_en.svg">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us_s.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img align="right" src="images/us_s.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_ru.md"><img src="images/ru.png" height="13"> Русский</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
-&nbsp;&nbsp;&nbsp;:standing_person: &nbsp;I'm 26 years old Backend & ML/AI Enthusiast from Uzbekistan.\
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working at [Codify](https://codifylab.uz/) as mentor. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation and animals:dog:.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem-solving and games:video_game:.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning new technologies and sharpening skills.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2021 (Backend).\
-&nbsp;&nbsp;&nbsp;:family_man_man_boy: &nbsp;Living in Uzbekistan with me, myself:pensive:, and I:dog2:.
+&nbsp;&nbsp;&nbsp;🧍 &nbsp;I'm 26 years old Backend & ML/AI Enthusiast from Uzbekistan.\
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working at [Codify](https://codifylab.uz/) as mentor. \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Love for innovation and animals🐕.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem-solving and games🎮.\
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently learning new technologies and sharpening skills.\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2021 (Backend).\
+&nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Uzbekistan with me, myself:pensive:, and I:dog2:.
 
 
-### :link: &nbsp;Where to find me
+### 🔗 &nbsp;Where to find me
 <hr/>
 
 <p align="center">
@@ -27,11 +27,11 @@
 </p>
 
 
-### :computer: &nbsp;Technologies
+### 🖥️ &nbsp;Technologies
 <hr/>
 
 <details>
-  <summary><b>:man_technologist: &nbsp;What I use</b></summary>
+  <summary><b>👨‍💻 &nbsp;What I use</b></summary>
   <br/>
 
 
@@ -79,7 +79,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;What I learn</b></summary>
+  <summary><b>🧠 &nbsp;What I learn</b></summary>
   <br/>
 
 ![Ubuntu](/images/svg/ubuntu.svg)&nbsp;
@@ -110,10 +110,10 @@
 
 </details>
 
-### :keyboard: &nbsp;Projects
+### ⌨️ &nbsp;Projects
 <hr/>
 <details>
-  <summary><b>:test_tube: &nbsp;Python (Pure)</b></summary>
+  <summary><b>🧪 &nbsp;Python (Pure)</b></summary>
   <br/>
 	<blockquote>Python based projects</blockquote>
 	<ul>
@@ -132,7 +132,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>:globe_with_meridians: &nbsp;Python (Web)</b></summary>
+  <summary><b>🌐 &nbsp;Python (Web)</b></summary>
   <br/>
 <blockquote>Python web-based projects</blockquote>
 	<ul>
@@ -144,7 +144,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>:spider_web: &nbsp;Python (Async)</b></summary>
+  <summary><b>🕸️ &nbsp;Python (Async)</b></summary>
   <br/>
 <blockquote>Python asynchronous based projects</blockquote>
 	<ul>
@@ -163,7 +163,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>:floppy_disk: &nbsp;Databases</b></summary>
+  <summary><b>💾 &nbsp;Databases</b></summary>
   <br/>
     <blockquote>Database based projects</blockquote>
 	    <ul>
@@ -180,7 +180,7 @@
 	    </ul>
 </details>
 <details>
-  <summary><b>:brain: &nbsp;Other</b></summary>
+  <summary><b>🧠 &nbsp;Other</b></summary>
   <br/>
 <blockquote>Other projects</blockquote>
 	<ul>
@@ -189,13 +189,13 @@
 	</ul>
 </details>
 
-### :chart_with_upwards_trend: &nbsp;GitHub Stats
+### 📈 &nbsp;GitHub Stats
 <hr/>
 <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ggwmwgg&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
 </p>
 <details>
-  <summary><b>:eight_spoked_asterisk: &nbsp;Other stats</b></summary>
+  <summary><b>✳️ &nbsp;Other stats</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://streak-stats.demolab.com?user=ggwmwgg&theme=tokyonight&hide_border=true&background=DD272700" />
@@ -206,7 +206,7 @@
 <hr/>
 
 <p>
-    <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"></img>
+    <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square">
 <sub><i>Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a> for the idea of this README.md</i></sub>
 </p>
 
