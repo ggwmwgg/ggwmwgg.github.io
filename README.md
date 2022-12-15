@@ -150,7 +150,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>:robot: &nbsp;Python (ML/AI (Soon))</b></summary>
+  <summary><b>🤖 &nbsp;Python (ML/AI (Soon))</b></summary>
   <br/>
 <blockquote>Python ML/AI based projects</blockquote>
 	<ul>
