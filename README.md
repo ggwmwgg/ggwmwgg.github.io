@@ -131,7 +131,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>🌐 &nbsp;Python (Web)</b></summary>
+  <summary><b>🌐 &nbsp;Python (Backend)</b></summary>
   <br/>
 <blockquote>Python web-based projects</blockquote>
 	<ul>
