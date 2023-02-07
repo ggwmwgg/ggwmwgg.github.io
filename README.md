@@ -1,5 +1,6 @@
 <head>
 	<link rel="shortcut icon" type="image/png" href="favicon.png">
+	<title>GGwM</title>
 </head>
 <img src="images/svg/header_en.svg">
 
@@ -18,11 +19,11 @@
 <hr/>
 
 <p align="center">
-  <a href="mailto:mihail999999999@gmail.com?subject=From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/ggwm/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&color=grey&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ggwmwgg/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ggwmm.t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ggwm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:mihail999999999@gmail.com?subject=From%20Github"><img src="https://ggwmwgg.github.io/images/svg/gmail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://steamcommunity.com/id/ggwm/"><img src="https://ggwmwgg.github.io/images/svg/steam.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/ggwmwgg/"><img src="https://ggwmwgg.github.io/images/svg/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://ggwmm.t.me/"><img src="https://ggwmwgg.github.io/images/svg/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/ggwm/"><img src="https://ggwmwgg.github.io/images/svg/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -32,32 +33,14 @@
 <details>
 	<summary><b>👨‍💻 &nbsp;What I use</b></summary>
 	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/windows.svg" alt="Windows"/>
-	<img src="https://ggwmwgg.github.io/images/svg/ios.svg" alt="IOS"/>
-	<img src="https://ggwmwgg.github.io/images/svg/mac_os.svg" alt="MacOS"/>
-	<img src="https://ggwmwgg.github.io/images/svg/vsc.svg" alt="VSCode"/>
-	<img src="https://ggwmwgg.github.io/images/svg/pycharm.svg" alt="PyCharm"/>
-	<img src="https://ggwmwgg.github.io/images/svg/git.svg" alt="Git"/>
-	<img src="https://ggwmwgg.github.io/images/svg/powershell.svg" alt="PowerShell"/>
-	<img src="https://ggwmwgg.github.io/images/svg/windows_terminal.svg" alt="Win terminal"/>
-	<br/>
-	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/google_chrome.svg" alt="Chrome"/>
-	<img src="https://ggwmwgg.github.io/images/svg/opera.svg" alt="Opera"/>
-	<img src="https://ggwmwgg.github.io/images/svg/brave.svg" alt="Brave"/>
-	<img src="https://ggwmwgg.github.io/images/svg/tor.svg" alt="Tor"/>
-	<img src="https://ggwmwgg.github.io/images/svg/github.svg" alt="Github"/>
-	<img src="https://ggwmwgg.github.io/images/svg/ms_excel.svg" alt="MS Excel"/>
-	<img src="https://ggwmwgg.github.io/images/svg/ms_word.svg" alt="MS Word"/>
-	<img src="https://ggwmwgg.github.io/images/svg/prezi.svg" alt="Prezi"/>
-	<br/>
-	<br/>
 	<img src="https://ggwmwgg.github.io/images/svg/html5.svg" alt="HTML5"/>
 	<img src="https://ggwmwgg.github.io/images/svg/c.svg" alt="C"/>
+	<img src="https://ggwmwgg.github.io/images/svg/javascript.svg" alt="JavaScript"/>
 	<img src="https://ggwmwgg.github.io/images/svg/python.svg" alt="Python"/>
 	<img src="https://ggwmwgg.github.io/images/svg/markdown.svg" alt="Markdown"/>
 	<img src="https://ggwmwgg.github.io/images/svg/selenium.svg" alt="Selenium"/>
 	<img src="https://ggwmwgg.github.io/images/svg/flask.svg" alt="Flask"/>
+	<img src="https://ggwmwgg.github.io/images/svg/django.svg" alt="Django"/>
 	<img src="https://ggwmwgg.github.io/images/svg/aiogram.svg" alt="aiogram"/>
 	<img src="https://ggwmwgg.github.io/images/svg/bs4.svg" alt="bs4"/>
 	<img src="https://ggwmwgg.github.io/images/svg/csv.svg" alt="csv"/>
@@ -70,7 +53,34 @@
 	<img src="https://ggwmwgg.github.io/images/svg/sqlalchemy.svg" alt="SQLAlchemy"/>
 	<img src="https://ggwmwgg.github.io/images/svg/redis.svg" alt="redis"/>
 	<img src="https://ggwmwgg.github.io/images/svg/postgresql.svg" alt="PostgreSQL"/>
-	<img src="https://ggwmwgg.github.io/images/svg/twilio.svg" alt="twilio"/>
+	<br/>
+	<br/>
+	<img src="https://ggwmwgg.github.io/images/svg/twilio.svg" alt="Twilio"/>
+	<img src="https://ggwmwgg.github.io/images/svg/binance.svg" alt="Binance"/>
+	<img src="https://ggwmwgg.github.io/images/svg/.svg" alt=""/>
+	<img src="https://ggwmwgg.github.io/images/svg/.svg" alt=""/>
+	<img src="https://ggwmwgg.github.io/images/svg/.svg" alt=""/>
+	<br/>
+	<br/>
+	<img src="https://ggwmwgg.github.io/images/svg/windows.svg" alt="Windows"/>
+	<img src="https://ggwmwgg.github.io/images/svg/ios.svg" alt="IOS"/>
+	<img src="https://ggwmwgg.github.io/images/svg/mac_os.svg" alt="MacOS"/>
+	<img src="https://ggwmwgg.github.io/images/svg/powershell.svg" alt="PowerShell"/>
+	<img src="https://ggwmwgg.github.io/images/svg/windows_terminal.svg" alt="Win terminal"/>
+	<br/>
+	<br/>
+	<img src="https://ggwmwgg.github.io/images/svg/git.svg" alt="Git"/>
+	<img src="https://ggwmwgg.github.io/images/svg/vsc.svg" alt="VSCode"/>
+	<img src="https://ggwmwgg.github.io/images/svg/pycharm.svg" alt="PyCharm"/>
+	<img src="https://ggwmwgg.github.io/images/svg/notepad.svg" alt="Notepad++"/>
+	<img src="https://ggwmwgg.github.io/images/svg/google_chrome.svg" alt="Chrome"/>
+	<img src="https://ggwmwgg.github.io/images/svg/opera.svg" alt="Opera"/>
+	<img src="https://ggwmwgg.github.io/images/svg/brave.svg" alt="Brave"/>
+	<img src="https://ggwmwgg.github.io/images/svg/tor.svg" alt="Tor"/>
+	<img src="https://ggwmwgg.github.io/images/svg/github.svg" alt="Github"/>
+	<img src="https://ggwmwgg.github.io/images/svg/ms_excel.svg" alt="MS Excel"/>
+	<img src="https://ggwmwgg.github.io/images/svg/ms_word.svg" alt="MS Word"/>
+	<img src="https://ggwmwgg.github.io/images/svg/prezi.svg" alt="Prezi"/>
 	<br/>
 	<br/>
 	<br/>
@@ -79,20 +89,17 @@
 <details>
 	<summary><b>🧠 &nbsp;What I learn</b></summary>
 	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/ubuntu.svg" alt="Ubuntu"/>
-	<img src="https://ggwmwgg.github.io/images/svg/linux.svg" alt="Linux"/>
-	<img src="https://ggwmwgg.github.io/images/svg/shell.svg" alt="Shellscipt"/>
-	<img src="https://ggwmwgg.github.io/images/svg/sublime.svg" alt="Sublime Text"/>
-	<img src="https://ggwmwgg.github.io/images/svg/bash.svg" alt="Bash"/>
-	<br/>
-	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/django.svg" alt="django"/>
 	<img src="https://ggwmwgg.github.io/images/svg/aiohttp.svg" alt="aiohttp"/>
 	<img src="https://ggwmwgg.github.io/images/svg/asyncio.svg" alt="asyncio"/>
 	<img src="https://ggwmwgg.github.io/images/svg/tensorflow.svg" alt="TensorFlow"/>
 	<img src="https://ggwmwgg.github.io/images/svg/numpy.svg" alt="NumPy"/>
 	<img src="https://ggwmwgg.github.io/images/svg/pandas.svg" alt="Pandas"/>
 	<img src="https://ggwmwgg.github.io/images/svg/pytorch.svg" alt="PyTorch"/>
+	<br/>
+	<br/>
+	<img src="https://ggwmwgg.github.io/images/svg/mongodb.svg" alt="MongoDB"/>
+	<img src="https://ggwmwgg.github.io/images/svg/ms_sql.svg" alt="Microsoft SQL Server"/>
+	<img src="https://ggwmwgg.github.io/images/svg/oracle.svg" alt="Oracle"/>
 	<br/>
 	<br/>
 	<img src="https://ggwmwgg.github.io/images/svg/airflow.svg" alt="Airflow"/>
@@ -104,9 +111,11 @@
 	<img src="https://ggwmwgg.github.io/images/svg/cloudflare.svg" alt="Cloudflare"/>
 	<br/>
 	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/mongodb.svg" alt="MongoDB"/>
-	<img src="https://ggwmwgg.github.io/images/svg/ms_sql.svg" alt="Microsoft SQL Server"/>
-	<img src="https://ggwmwgg.github.io/images/svg/oracle.svg" alt="Oracle"/>
+	<img src="https://ggwmwgg.github.io/images/svg/ubuntu.svg" alt="Ubuntu"/>
+	<img src="https://ggwmwgg.github.io/images/svg/linux.svg" alt="Linux"/>
+	<img src="https://ggwmwgg.github.io/images/svg/shell.svg" alt="Shellscipt"/>
+	<img src="https://ggwmwgg.github.io/images/svg/sublime.svg" alt="Sublime Text"/>
+	<img src="https://ggwmwgg.github.io/images/svg/bash.svg" alt="Bash"/>
 	<br/>
 	<br/>
 	<br/>
@@ -114,6 +123,91 @@
 
 ### ⌨️ &nbsp;Projects
 <hr/>
+<details>
+	<summary><b>🎨 &nbsp;Frontend</b></summary>
+	<br/>
+		<ul style="list-style-type: none">
+		<li>
+			<details>
+				<summary><b>HTML/CSS</b></summary>
+				<blockquote>HTML+CSS Based projects (backend not included)</blockquote>
+					<ul>
+						<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/google" target="_blank">Google Search (CS50 Web)</a></li>
+					</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary><b>JavaScript</b></summary>
+				<blockquote>JavaScript based projects</blockquote>
+				<ul>
+					<li><a href="https://github.com/ggwmwgg/jb/tree/main/Coffee_Machine_JS" target="_blank">Coffee Machine (Challenging)</a></li>
+					<li><a href="https://github.com/ggwmwgg/jb/tree/main/Hangman_JS" target="_blank">Hangman (Hard)</a></li>
+					<li><a href="https://github.com/ggwmwgg/jb/tree/main/Simple_Currency_Converter_JS" target="_blank">Simple Currency Converter (Medium)</a></li>
+					<li><a href="https://github.com/ggwmwgg/jb/tree/main/Zookeeper_JS" target="_blank">Zookeeper (Easy)</a></li>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/mail" target="_blank">Mail (CS50 Web)</a></li>
+				</ul>
+			</details>
+		</li>
+	</ul>
+</details>
+<details>
+	<summary><b>🌐 &nbsp;Backend</b></summary>
+	<br/>
+	<ul style="list-style-type: none">
+		<li>
+			<details>
+				<summary><b>Flask</b></summary>
+				<blockquote>Flask based projects</blockquote>
+					<ul>
+						<li><a href="https://github.com/ggwmwgg/cs50/tree/main/CS50_Final" target="_blank">My Portfolio Website (CS50 Web)</a></li>
+						<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (CS50 Web)</a></li>
+						<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Finance" target="_blank">Finance (CS50 Web)</a></li>
+					</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary><b>Django</b></summary>
+				<blockquote>Django based projects</blockquote>
+				<ul>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/wiki" target="_blank">Wiki (CS50 Web)</a></li>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/commerce" target="_blank">Commerce (CS50 Web)</a></li>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/mail" target="_blank">Mail (CS50 Web)</a></li>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/twitter" target="_blank">Twitter (CS50 Web)</a></li>
+					<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/cs50web_final" target="_blank">Final Project (CS50 Web)</a></li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary><b>Other</b></summary>
+				<blockquote>Other backend projects</blockquote>
+				<ul>
+					<li><a href="https://github.com/ggwmwgg/jb/tree/main/Scraper_HS" target="_blank">Scraper</a></li>
+				</ul>
+			</details>
+		</li>
+	</ul>
+
+</details>
+<details>
+	<summary><b>🕸️ &nbsp;Python (Async)</b></summary>
+	<br/>
+	<blockquote>Python asynchronous based projects</blockquote>
+	<ul>
+		<li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template</a></li>
+		<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
+	</ul>
+</details>
+<details>
+	<summary><b>🤖 &nbsp;Python (ML/AI (TO DO))</b></summary>
+	<br/>
+	<blockquote>Python ML/AI based projects</blockquote>
+	<ul>
+		<li><a href="https://github.com/ggwmwgg/" target="_blank">TO DO</a></li>
+	</ul>
+</details>
 <details>
 	<summary><b>🧪 &nbsp;Python (Pure)</b></summary>
 	<br/>
@@ -130,38 +224,6 @@
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Mario" target="_blank">Mario</a></li>
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Readability" target="_blank">Readability</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/blob/main/TicTacToe_HS" target="_blank">TicTacToe</a></li>
-		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
-	</ul>
-</details>
-<details>
-  <summary><b>🌐 &nbsp;Python (Backend)</b></summary>
-  <br/>
-<blockquote>Python web-based projects</blockquote>
-	<ul>
-		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/CS50_Final" target="_blank">My Portfolio Website (Flask)</a></li>
-		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (Flask)</a></li>
-		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Finance" target="_blank">Finance (Flask)</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Scraper_HS" target="_blank">Scraper</a></li>
-		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
-	</ul>
-</details>
-<details>
-  <summary><b>🕸️ &nbsp;Python (Async)</b></summary>
-  <br/>
-<blockquote>Python asynchronous based projects</blockquote>
-	<ul>
-		<li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template</a></li>
-		<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
-        <li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
-	</ul>
-</details>
-<details>
-  <summary><b>🤖 &nbsp;Python (ML/AI (Soon))</b></summary>
-  <br/>
-<blockquote>Python ML/AI based projects</blockquote>
-	<ul>
-		<li><a href="https://github.com/ggwmwgg/" target="_blank">Soon</a></li>
-		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
 	</ul>
 </details>
 <details>
@@ -178,7 +240,6 @@
 			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays</a></li>
 			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Finance" target="_blank">Finance</a></li>
 			<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
-			<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
 		</ul>
 </details>
 <details>
@@ -187,7 +248,6 @@
 	<blockquote>Other projects</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/HCJs_Trivia" target="_blank">Trivia (HTML)</a></li>
-		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
 	</ul>
 </details>
 
