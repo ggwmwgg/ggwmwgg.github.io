@@ -55,6 +55,8 @@
 	<img src="https://ggwmwgg.github.io/images/svg/postgresql.svg" alt="PostgreSQL"/>
 	<br/>
 	<br/>
+	<img src="https://ggwmwgg.github.io/images/svg/git.svg" alt="Git"/>
+	<img src="https://ggwmwgg.github.io/images/svg/github.svg" alt="Github"/>
 	<img src="https://ggwmwgg.github.io/images/svg/twilio.svg" alt="Twilio"/>
 	<img src="https://ggwmwgg.github.io/images/svg/binance.svg" alt="Binance"/>
 	<img src="https://ggwmwgg.github.io/images/svg/.svg" alt=""/>
@@ -69,7 +71,6 @@
 	<img src="https://ggwmwgg.github.io/images/svg/windows_terminal.svg" alt="Win terminal"/>
 	<br/>
 	<br/>
-	<img src="https://ggwmwgg.github.io/images/svg/git.svg" alt="Git"/>
 	<img src="https://ggwmwgg.github.io/images/svg/vsc.svg" alt="VSCode"/>
 	<img src="https://ggwmwgg.github.io/images/svg/pycharm.svg" alt="PyCharm"/>
 	<img src="https://ggwmwgg.github.io/images/svg/notepad.svg" alt="Notepad++"/>
@@ -77,7 +78,6 @@
 	<img src="https://ggwmwgg.github.io/images/svg/opera.svg" alt="Opera"/>
 	<img src="https://ggwmwgg.github.io/images/svg/brave.svg" alt="Brave"/>
 	<img src="https://ggwmwgg.github.io/images/svg/tor.svg" alt="Tor"/>
-	<img src="https://ggwmwgg.github.io/images/svg/github.svg" alt="Github"/>
 	<img src="https://ggwmwgg.github.io/images/svg/ms_excel.svg" alt="MS Excel"/>
 	<img src="https://ggwmwgg.github.io/images/svg/ms_word.svg" alt="MS Word"/>
 	<img src="https://ggwmwgg.github.io/images/svg/prezi.svg" alt="Prezi"/>
