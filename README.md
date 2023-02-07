@@ -132,6 +132,7 @@
 				<summary><b>HTML/CSS</b></summary>
 				<blockquote>HTML+CSS Based projects (backend not included)</blockquote>
 					<ul>
+						<li><a href="https://github.com/ggwmwgg/cs50/tree/main/HCJs_Trivia" target="_blank">Trivia (HTML)</a></li>
 						<li><a href="https://github.com/ggwmwgg/cs50web/tree/main/google" target="_blank">Google Search (CS50 Web)</a></li>
 					</ul>
 			</details>
@@ -247,7 +248,7 @@
 	<br/>
 	<blockquote>Other projects</blockquote>
 	<ul>
-		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/HCJs_Trivia" target="_blank">Trivia (HTML)</a></li>
+		<li><a href="#" target="_blank">Nothing here yet</a></li>
 	</ul>
 </details>
 
