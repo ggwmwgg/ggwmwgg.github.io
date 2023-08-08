@@ -235,9 +235,10 @@
 				<summary><b>Other</b></summary>
 				<blockquote>Other projects</blockquote>
 				<ul>
-                    <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/SQLAlchemy/Gino/Twilio)</a></li>
-                    <li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template (Aiogram)</a></li>
-                    <li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
+                    <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/SQLAlchemy/Gino/Twilio) (Archived)</a></li>
+                    <li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template (Aiogram) (Archived)</a></li>
+                    <li><a href="https://github.com/ggwmwgg/tg_seller_crypto" target="_blank">Telegram AutoSeller bot Example (Aiogram/PostgreSQL/Tortoise/Bitcoinlib/Redis/Docker)</a></li>
+					<li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
 				    <li><a href="https://github.com/ggwmwgg/algo_tema" target="_blank">Binance TEMA Signal Bot</a></li>
                 </ul>
 			</details>
