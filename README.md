@@ -153,7 +153,8 @@
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/mail" target="_blank">Mail (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/twitter" target="_blank">Twitter (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/tg_seller_crypto" target="_blank">Telegram AutoSeller bot Example (Aiogram/PostgreSQL/Tortoise/Bitcoinlib/Redis/Docker)</a></li>
-        <li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
+        <li><a href="https://github.com/ggwmwgg/telegram_reminder" target="_blank">Telegram Reminder bot (Aiogram/Asyncio/Pandas/Tortoise/PostgreSQL/Docker)</a></li>
+		<li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (Flast/SQL/HTML5/CSS3)</a></li>
     </ul>
 </details>
